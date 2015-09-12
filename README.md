@@ -14,4 +14,4 @@ In add_device.rb replace:
 
 then run  
 
-add_device.rb -d=`device_name` -u=`device_udid`
+./add_device.rb -d=`device_name` -u=`device_udid`
