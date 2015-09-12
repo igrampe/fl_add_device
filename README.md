@@ -13,4 +13,5 @@ In add_device.rb replace:
 * `profile_name` with provisioning profile name
 
 then run  
+
 add_device.rb -d=`device_name` -u=`device_udid`
